@@ -1,1 +1,3 @@
 uma seção com uma introdução explicativa do domínio de informação escolhido:
+
+Um aplicativo de relacionamento onde os usuários podem enxergar os perfis uns dos outros baseado em certos filtros como idade e gênero. Os usuários podem curtir os perfils um dos outros e quandos dois usuários se curtirem, é criado um chat para eles conversarem.
