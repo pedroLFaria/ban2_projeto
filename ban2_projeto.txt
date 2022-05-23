@@ -1,3 +1,42 @@
 uma seção com uma introdução explicativa do domínio de informação escolhido:
 
 Um aplicativo de relacionamento onde os usuários podem enxergar os perfis uns dos outros baseado em certos filtros como idade e gênero. Os usuários podem curtir os perfils um dos outros e quandos dois usuários se curtirem, é criado um chat para eles conversarem.
+
+======================================================================================================================================================================
+
+Sumário executivo 
+Este projeto tem por objetivo conectar pessoas através de seus interesses mútuos e gostos pessoais que tenham algum tipo de afinidade, entre outros atributos em particular dependendo de cada pessoa.
+
+Missão 
+A satisfação em conectar pessoas é o que nos move, seja por amizades, de forma acalorada, por amor ou simplesmente para um bate papo.
+O nosso maior objetivo é conectar as pessoas com o que há em comum em cada um de nós, mesmo quando não percebemos sempre há alguém que nos interessa.
+
+Objetivos
+Utilizando algoritmos de alto nível, o nosso projeto é desenvolvido para conectar as pessoas através de seus interesses mútuos, aqueles que buscam algum tipo de interação, há também a possibilidade de poder convidar alguém para se juntar ao aplicativo e dessa forma aumentar a rede de interação social que o aplicativo possibilita. 	
+
+Situação alvo planejada
+Hoje em dia com a modernização das coisas e com o aumento da violência, cada vez mais pessoas buscam interações sociais através das mídias sociais digitais, o nosso maior interesse é conectar as pessoas para que haja uma real interação, sendo possível conhecer pessoalmente, isto depende de cada pessoa.
+A situação alvo neste caso é a forma de interação que passa a ser mais abrangente e segura, possibilitando para o usuário o poder de decisão e segurança em suas interações. 
+
+Premissas e restrições 
+A maior premissa do projeto é a possibilidade de interações com segurança e com pessoas reais, ao criar um perfil as pessoas precisam se identificar e passar por uma breve avaliação com autenticações que confirmem que é real e nao um robô, os perfis criados por robôs é e sempre serão a maior preocupação, pois isto dificulta e atrapalha o processo de interações entre os usuários.
+As restrições estão particularmente atreladas a perfis falsos que serão excluídos sem aviso prévio
+
+Obstáculos
+Por se tratar de uma solução de forma digital, este projeto também está exposto ao ataque de hackers e consequentemente a invasões.
+O desconhecimento dos usuários também facilitaria o acesso indevido. 	
+
+Estratégias 
+Inicialmente o projeto será desenvolvido em sua versão beta, onde terão usuários que poderão utilizar e reportar problemas e bugs.
+Visando uma demanda de usuários iniciais será possível criar perfil de usuário beta.
+Propagandas em mídias sociais também serão propagadas afim de atrair novos usuários em potencial.
+
+
+
+Demanda de recursos 
+Serão utilizados servidores conectados à internet para uma abrangência dos dados e do uso do aplicativo.
+A sede da companhia será em uma incubadora de startups.
+	
+
+
+
